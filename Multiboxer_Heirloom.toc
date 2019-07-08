@@ -3,6 +3,7 @@
 ## Version: 8.2.0
 ## Author: PizzaDudeZ
 ## Interface: 82000
+## DefaultState: disabled
 
 Libs\LibStub\LibStub.lua
 Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
@@ -13,3 +14,4 @@ Libs\StdUi\StdUi.xml
 
 main.lua
 heirloomSets.lua
+config.lua
